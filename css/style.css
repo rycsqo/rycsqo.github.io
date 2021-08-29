@@ -1,0 +1,46 @@
+@font-face {
+    font-family: "Oswald";
+    src: url(fonts/Oswald/Oswald-Regular.ttf);
+    font-weight: 500;
+}
+@font-face {
+    font-family: "Roboto";
+    src: url(fonts/Roboto/Roboto-Regular.ttf);
+}
+@font-face {
+    font-family: "Teko";
+    src: url(fonts/Teko/Teko-Regular.ttf);
+}
+.content{
+    color: brown;
+    font-size: 48px;
+    font-family: "Oswald";
+    text-align: left;
+}
+h2 {
+    color: darkred;
+    font-family: 'Roboto', sans-serif;
+}
+.bold {
+    font-weight: bold;
+}
+.img-div {
+    background-color: lightblue;
+}
+.tako {
+    text-align: justify;
+    text-transform: normal;
+    font-size: 24px;
+    font-weight: normal;
+    font-family: 'Teko', sans-serif;
+    max-width: 45%;
+    margin-left: 500px;
+}
+#img-2 {
+    display: inline;
+}
+img {
+    width: 20%;  
+    box-shadow: 10px 3px 17px blue;
+    margin: 3%;
+}
