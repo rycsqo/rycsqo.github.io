@@ -33,15 +33,15 @@ h2 {
     font-size: 24px;
     font-weight: normal;
     font-family: 'Teko', sans-serif;
-    max-width: 45%;
-    margin-left: 500px;
+}
+html {
+    background-color: gray;
 }
 #img-2 {
     display: inline;
         box-shadow: 3px 10px 17px darkred;
 }
-#img-1 {
-    position: fixed;
+
 }
 img {
     width: 20%;  
